@@ -1,0 +1,12 @@
+2026-05-18 10:58:29,360 - INFO - Stamp found: stamps/StampTNH.png
+2026-05-18 10:58:29,361 - WARNING - No PDF files found in input_pdfs/
+2026-05-18 10:59:00,389 - INFO - Stamp found: stamps/StampTNH.png
+2026-05-18 10:59:00,390 - INFO - Found 1 PDF(s) to process
+2026-05-18 10:59:00,390 - INFO - [1/1] Processing: Demo.pdf
+2026-05-18 10:59:01,148 - INFO - Stamped successfully: Demo.pdf
+2026-05-18 10:59:01,180 - INFO - Done. Total: 1 | Success: 1 | Failed: 0
+2026-05-18 10:59:09,805 - INFO - Stamp found: stamps/StampTNH.png
+2026-05-18 10:59:09,806 - INFO - Found 1 PDF(s) to process
+2026-05-18 10:59:09,806 - INFO - [1/1] Processing: Demo.pdf
+2026-05-18 10:59:10,558 - INFO - Stamped successfully: Demo.pdf
+2026-05-18 10:59:10,583 - INFO - Done. Total: 1 | Success: 1 | Failed: 0

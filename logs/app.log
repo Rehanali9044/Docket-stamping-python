@@ -1,0 +1,10 @@
+2026-05-18 08:48:41,564 - INFO - Stamp found: stamps/StampTNH.png
+2026-05-18 08:48:41,565 - INFO - Found 1 PDF(s) to process
+2026-05-18 08:48:41,565 - INFO - [1/1] Processing: Payment_Receipt_P (1).pdf
+2026-05-18 08:48:42,338 - INFO - Stamped successfully: Payment_Receipt_P (1).pdf
+2026-05-18 08:48:42,376 - INFO - Done. Total: 1 | Success: 1 | Failed: 0
+2026-05-18 10:55:20,501 - INFO - Stamp found: stamps/StampTNH.png
+2026-05-18 10:55:20,503 - INFO - Found 1 PDF(s) to process
+2026-05-18 10:55:20,503 - INFO - [1/1] Processing: Demo.pdf
+2026-05-18 10:55:21,282 - INFO - Stamped successfully: Demo.pdf
+2026-05-18 10:55:21,356 - INFO - Done. Total: 1 | Success: 1 | Failed: 0
